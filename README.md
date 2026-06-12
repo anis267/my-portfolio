@@ -32,7 +32,6 @@ Topics:
 - Servers
 - Scaling and Name Resolution
 - Serverless and Container
-- 
 
 ## Career Goal
 
